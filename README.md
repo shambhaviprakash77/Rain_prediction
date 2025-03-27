@@ -57,13 +57,7 @@ The model preprocesses the data, handles missing values, encodes categorical fea
 ## Model Training and Evaluation
 The model is trained for 150 epochs with batch size = 32 and an 80-20 train-test split.
 
-### Accuracy & Loss Visualization
-![Training vs Validation Loss](training_loss.png)
 
-![Training vs Validation Accuracy](training_accuracy.png)
-
-### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
 
 ### Classification Report
 ```sh
